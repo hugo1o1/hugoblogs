@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "866465037ae66c59a308eb414a3d82b6",
+    "revision": "287f49243768555ad5b4bdc11683a343",
     "url": "/hugoblogs/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hugoblogs/static/css/2.dee14c71.chunk.css"
   },
   {
-    "revision": "9980f0181eb9d4545edf",
+    "revision": "e8bc8f4355c6588051ea",
     "url": "/hugoblogs/static/css/main.20b334a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hugoblogs/static/js/2.afd8e2ea.chunk.js"
   },
   {
-    "revision": "9980f0181eb9d4545edf",
-    "url": "/hugoblogs/static/js/main.cf454e7e.chunk.js"
+    "revision": "e8bc8f4355c6588051ea",
+    "url": "/hugoblogs/static/js/main.8eb58f4c.chunk.js"
   },
   {
     "revision": "a6c7cdf24b2218c7b556",
