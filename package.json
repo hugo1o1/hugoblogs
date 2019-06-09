@@ -2,7 +2,7 @@
   "name": "hugoblogs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hugo1o1.github.io",
+  "homepage": "https://hugo1o1.github.io/hugoblogs/",
   "dependencies": {
     "antd": "^3.18.1",
     "axios": "^0.18.0",
