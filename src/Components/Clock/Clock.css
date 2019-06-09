@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clock {
+    height: 9vh;
+    background: #000;
+    letter-spacing: 2px;   
+}
+.clock :last-child{
+    margin-top: 3vh;
+    font-size: 3vh;
+    text-align: right; 
+    float: right;
+    color: azure;
+    letter-spacing: 2px;   
+
+}
+.clock .TodoList{
+    margin: 2vh 2vh;
+    font-size: 4vh;
+   float: left;
+   color: blueviolet;
+}

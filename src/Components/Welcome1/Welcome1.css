@@ -1,0 +1,92 @@
+
+
+div {
+  position: absolute;
+  top: 30%;
+  width: 100%;
+}
+
+p {
+
+  color: #265687;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 72px;
+  font-weight: 400;
+  letter-spacing: -0.05em;
+  text-align: center;
+  text-shadow: 3px 5px 5px rgba(0, 0, 0, .3);
+  z-index: 1;
+}
+
+p em {
+  font-style: normal;
+  display: inline-block;
+
+}
+
+p em:nth-child(1) {
+  color: #4285F4;
+}
+
+p em:nth-child(2) {
+  color: #E94D3D;
+}
+
+p em:nth-child(3) {
+  color: #F7C945;
+}
+
+p em:nth-child(4) {
+  color: #4285F4;
+}
+
+p em:nth-child(5) {
+  color: #34A853;
+}
+
+p em:nth-child(6) {
+
+  color: #E94D3D;
+
+}
+
+.bounce-me{
+  -webkit-animation: bounce 4s  infinite ease-in-out;
+  animation: bounce 4s  infinite ease-in-out;
+  
+}
+.a0{
+animation-delay: 250ms;
+}
+.a1{
+  animation-delay: 500ms;
+  }
+.a2{
+    animation-delay: 750ms;
+    }
+    .a3{
+      animation-delay: 1000ms;
+      }
+      .a4{
+        animation-delay: 1250ms;
+        }
+        .a5{
+          animation-delay: 1500ms;
+          }
+          .a6{
+            animation-delay: 1750ms;
+            }
+@-webkit-keyframes bounce {
+  60% {
+    -webkit-transform: translate(0px, -50px) scale(1.2);
+    opacity: 0.8;
+    text-shadow: 0px 150px 20px rgba(0, 0, 0, 0.8);
+  }
+}
+@keyframes bounce {
+  60% {
+    -webkit-transform: translate(0px, -50px) scale(1.2);
+    opacity: 0.8;
+    text-shadow: 0px 100px 20px rgba(0, 0, 0, 0.8);
+  }
+}

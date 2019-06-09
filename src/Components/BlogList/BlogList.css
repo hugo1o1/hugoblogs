@@ -1,0 +1,21 @@
+.bloglist{
+    width: 80%;
+    height: 100vh;
+    margin-left: 10%;
+    /* background-color: yellow; */
+    text-align: left;
+}
+.title{
+    align-items: left;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #3f3f3f;
+
+}
+.title:hover{
+    animation: a1 1s  ;
+}
+@keyframes a1{
+    from{margin-left:0;}
+    to{margin-left:30px;}
+}

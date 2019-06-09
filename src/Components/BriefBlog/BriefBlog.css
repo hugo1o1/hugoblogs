@@ -1,0 +1,82 @@
+.BriefBlog{
+    margin: 30px 0 0 0;
+    padding:5px 0;
+    transition: margin 0.2s;
+    width: 100%;
+    height:  200px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px  #bbb;
+}
+.BriefBlog:hover{
+    margin: 27px 0 3px 0;
+
+}
+.BriefBlog .bbimag{
+    float: left;
+    margin-top:20px;
+    width: 120px;
+    height: 120px;
+    margin-left: 5%;
+    overflow: hidden;
+    border-radius: 5px;
+    /* background-color: red; */
+
+}
+.BriefBlog .bbimag img{
+    width: 100%;
+    
+}
+.BriefBlog .bbContent{
+    float: right;
+    width: 65%;
+    height: 80%;
+    margin-right: 5%;
+    /* background-color: blue; */
+    overflow: hidden;
+}
+.BriefBlog .bbContent h1{
+    font-size: 25px;
+    margin-bottom: 10px;
+
+}
+.BriefBlog .bbContent p{
+    font-size: 18px;
+    
+}
+.bbbottom{
+    float: left;
+    width: 100%;
+    height: 20%;
+    padding-top: 5px;
+   
+}
+.bbbottom .viewtimes{
+    float: left;
+    margin:0 20px;
+    
+}
+.bbbottom .updatetimes{
+    float: left;
+    margin:0 20px;
+}
+.bbbottom .bbcatogery{
+    float: left;
+    width: 40px;
+    height: 50%;
+    padding-left: 4px;
+    border-radius: 30%;
+    background-color: #e7cd79;
+    color: #4285f4;
+    
+}
+.bbbottom .readmore{
+    float: right;
+
+    margin-right: 20px;    
+}
+.bbbottom .readmore img{
+    margin-left: 5px;
+}
+
+
