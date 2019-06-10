@@ -1,6 +1,6 @@
 import React ,{Component} from 'react';
 import './Content.css'
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 import BlogList from '../../Components/BlogList/BlogList';
 import Blog from '../../Components/Blog/Blog';
 import github from '../../images/github.png'
