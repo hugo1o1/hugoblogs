@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hugoblogs/static/css/main.47971dbf.chunk.css",
-    "main.js": "/hugoblogs/static/js/main.1ba93f8d.chunk.js",
-    "main.js.map": "/hugoblogs/static/js/main.1ba93f8d.chunk.js.map",
+    "main.css": "/hugoblogs/static/css/main.08e1f2d4.chunk.css",
+    "main.js": "/hugoblogs/static/js/main.4b1f0dd1.chunk.js",
+    "main.js.map": "/hugoblogs/static/js/main.4b1f0dd1.chunk.js.map",
     "runtime~main.js": "/hugoblogs/static/js/runtime~main.89c4273f.js",
     "runtime~main.js.map": "/hugoblogs/static/js/runtime~main.89c4273f.js.map",
     "static/css/2.dee14c71.chunk.css": "/hugoblogs/static/css/2.dee14c71.chunk.css",
-    "static/js/2.ea63fcdc.chunk.js": "/hugoblogs/static/js/2.ea63fcdc.chunk.js",
-    "static/js/2.ea63fcdc.chunk.js.map": "/hugoblogs/static/js/2.ea63fcdc.chunk.js.map",
+    "static/js/2.42ff9914.chunk.js": "/hugoblogs/static/js/2.42ff9914.chunk.js",
+    "static/js/2.42ff9914.chunk.js.map": "/hugoblogs/static/js/2.42ff9914.chunk.js.map",
     "index.html": "/hugoblogs/index.html",
-    "precache-manifest.bb3a75cb6e9891aba7ad809b73a54ad9.js": "/hugoblogs/precache-manifest.bb3a75cb6e9891aba7ad809b73a54ad9.js",
+    "precache-manifest.29cdba863a806d357a1966a0efab7c36.js": "/hugoblogs/precache-manifest.29cdba863a806d357a1966a0efab7c36.js",
     "service-worker.js": "/hugoblogs/service-worker.js",
     "static/css/2.dee14c71.chunk.css.map": "/hugoblogs/static/css/2.dee14c71.chunk.css.map",
-    "static/css/main.47971dbf.chunk.css.map": "/hugoblogs/static/css/main.47971dbf.chunk.css.map",
+    "static/css/main.08e1f2d4.chunk.css.map": "/hugoblogs/static/css/main.08e1f2d4.chunk.css.map",
     "static/media/avatar.png": "/hugoblogs/static/media/avatar.0462b2b9.png"
   }
 }
